@@ -1,0 +1,7 @@
+SECRET_KEY = "fd689424144d422a23e1176362977d23d69f128f4ea5a6537ab71fc24361f428"
+
+ALGORITHM = "HS256"
+
+ACCESS_TOKEN_EXPIRE_MINUTES = 60
+
+DATABASE_URL = "mysql+pymysql://root:%28ct3_1_7ia%29%2A@localhost/task_manager_db"
